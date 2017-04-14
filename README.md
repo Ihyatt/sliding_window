@@ -1,4 +1,4 @@
-Amne_challenge
+Sliding_window_challenge
 -----------
 
 Contains: 
